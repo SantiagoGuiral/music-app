@@ -29,13 +29,13 @@ body {
 
 .login-button {
   display: flex;
-  background-color: rgb(87, 228, 87);
+  background-color: rgb(12, 8, 8);
+  color: #fff;
   text-decoration: none;
   width: 30%;
   height: 50px;
   align-items: center;
   justify-content: center;
-  color: #000;
   font-size: 1.3em;
   font-weight: bold;
   margin-bottom: 20px;
